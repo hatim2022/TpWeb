@@ -12,7 +12,8 @@ Nodejs <br>
 
 ## Running the tests
  ![](pic1.png)<br>
-
+ ![](pic2.png)<br>
+ ![](pic3.png)<br>
 
 ## Authors
 **Hatim joubair** 
