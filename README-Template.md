@@ -11,7 +11,7 @@ Nodejs <br>
 
 
 ## Running the tests
-
+ ![](pic1.png)<br>
 
 
 ## Authors
